@@ -1,8 +1,8 @@
 {
-  "name": "random_data",
+  "name": "random_gen",
   "version": "1.0.0",
   "description": "generate random data for mock",
-  "main": "random_data.js",
+  "main": "random_gen.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
